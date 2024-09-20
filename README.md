@@ -4,8 +4,8 @@ This repository contains SQL-based analyses using the HR Analytics Employee Attr
 Dataset Overview
 The dataset consists of multiple tables:
 
-FactPerformanceRating: Contains employee performance reviews, satisfaction levels, and ratings from both employees and managers.
-DimEmployee: Contains demographic and employment details of employees, such as age, gender, department, salary, and attrition status.
+PerformanceRating: Contains employee performance reviews, satisfaction levels, and ratings from both employees and managers.
+Employee: Contains demographic and employment details of employees, such as age, gender, department, salary, and attrition status.
 SatisfiedLevel: Satisfaction levels across various categories.
 RatingLevel: Rating levels for employee performance.
 EducationLevel: Education levels achieved by the employees.
